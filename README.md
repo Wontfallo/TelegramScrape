@@ -6,6 +6,9 @@
 Dark-mode desktop app (Python + Telethon + CustomTkinter) that mass-downloads
 media from any Telegram channel/group/chat you have joined, in parallel.
 
+
+![Preview](ApplicationScreenShot.png)
+
 ## Features
 
 - **Fast parallel downloads** — 1–16 concurrent workers over Telethon's MTProto
