@@ -1,0 +1,4 @@
+telethon>=1.40
+customtkinter>=5.2
+cryptg>=0.4 ; platform_python_implementation == "CPython"
+pillow>=10.0
